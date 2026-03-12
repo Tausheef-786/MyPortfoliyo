@@ -49,6 +49,10 @@ git clone https://github.com/yourusername/portfolio.git
  📸 Screenshot
 
 <img width="1878" height="908" alt="image" src="https://github.com/user-attachments/assets/190cd311-f410-460b-8404-6e2f89b0c2af" />
+<img width="349" height="783" alt="image" src="https://github.com/user-attachments/assets/e8c594b1-bed7-4323-a53c-c432580d6269" />
+<img width="354" height="782" alt="image" src="https://github.com/user-attachments/assets/e2d3fd71-3a32-404b-b522-fa6bf023a7df" />
+
+
  👨‍💻 Author
 
 **Tausheef**
